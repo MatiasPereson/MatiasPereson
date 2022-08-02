@@ -7,7 +7,7 @@ Sobre mí
 ☕ Considero que una taza de café en buena compañía es la mejor forma de despejar la mente para poder seguir trabajando en las mejores condiciones.
 
 🛠 Tech Stack
-💻   JavaScript | TypeScript | NodeJs | ReactJs
-🌐   HTML5 | CSS3 | Bootstrap | Material UI | Redux | Express
+💻   JavaScript | C++ | NodeJs | ReactJs
+🌐   HTML5 | CSS3 | Bootstrap | Redux | Express
 🛢   PostgreSQL | Sequelize (ORM)
-🔧   Visual Studio code | Insomnia| Postman | Git | Slack | Discord
+🔧   Visual Studio code | Postman | Git | Slack | Discord

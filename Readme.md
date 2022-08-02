@@ -1,10 +1,10 @@
- About Me
-🔭   I am currently learning web application development.
-🤔   Explorador of new technologies and development of software solutions.
-💼   Full stack web developer.
-🔎   Passionate about acquiring new technological knowledge.
-🏆   Me gustan los deportes y jugar videojuegos.
-☕   I believe that a cup of coffee in good company is the best way to clear your mind so that you can continue working in the best conditions.
+Sobre mí
+🔭 Actualmente estoy aprendiendo desarrollo de aplicaciones web.
+🤔 Explorador de nuevas tecnologías y desarrollo de soluciones de software.
+💼 Desarrollador web full stack.
+🔎 Apasionado por adquirir nuevos conocimientos tecnológicos.
+🏆 Me gustan los deportes y jugar videojuegos.
+☕ Considero que una taza de café en buena compañía es la mejor forma de despejar la mente para poder seguir trabajando en las mejores condiciones.
 
 🛠 Tech Stack
 💻   JavaScript | TypeScript | NodeJs | ReactJs

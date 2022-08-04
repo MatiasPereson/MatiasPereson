@@ -4,7 +4,7 @@ Sobre mí
 💼 Desarrollador web full stack.
 🔎 Apasionado por adquirir nuevos conocimientos tecnológicos.
 🏆 Me gustan los deportes y jugar videojuegos.
-☕ Considero que una taza de café en buena compañía es la mejor forma de despejar la mente para poder seguir trabajando en las mejores condiciones.
+☕ Amante del cafe.
 
 🛠 Tech Stack
 💻   JavaScript | C++ | NodeJs | ReactJs

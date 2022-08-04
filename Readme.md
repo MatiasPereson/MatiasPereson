@@ -12,5 +12,5 @@ Sobre mí
 🛢   PostgreSQL | Sequelize (ORM)
 🔧   Visual Studio code | Postman | Git | Slack | Discord
 
-Datos de contacto:
--mjpereson@gmail.com
+Contacto:
+mjpereson@gmail.com

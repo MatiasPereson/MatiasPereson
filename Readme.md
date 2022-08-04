@@ -11,3 +11,6 @@ Sobre mí
 🌐   HTML5 | CSS3 | Bootstrap | Redux | Express
 🛢   PostgreSQL | Sequelize (ORM)
 🔧   Visual Studio code | Postman | Git | Slack | Discord
+
+Datos de contacto:
+-mjpereson@gmail.com

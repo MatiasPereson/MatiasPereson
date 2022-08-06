@@ -14,3 +14,6 @@ Sobre mí
 
 Contacto:
 mjpereson@gmail.com
+
+Linkedin:
+https://www.linkedin.com/in/matias-julian-pereson

@@ -5,7 +5,7 @@ Sobre mí
 ☕ Amante del cafe.
 
 🛠 Tech Stack
-💻   JavaScript | NodeJs | ReactJs | NextJs
+💻   JavaScript | NodeJs | ReactJs | NextJs | .NET
 🌐   HTML5 | CSS3 | Tailwind | Redux | Express
 🛢   PostgreSQL | Sequelize
 🔧   Visual Studio code | Postman | Git | Slack | Teams | Discord

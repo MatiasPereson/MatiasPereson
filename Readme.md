@@ -1,16 +1,14 @@
 Sobre mí
-🔭 Actualmente estoy aprendiendo desarrollo de aplicaciones web.
-🤔 Explorador de nuevas tecnologías y desarrollo de soluciones de software.
-💼 Desarrollador web full stack.
+💼 Desarrollador web full stack en Desarrollos NEA.
 🔎 Apasionado por adquirir nuevos conocimientos tecnológicos.
 🏆 Me gustan los deportes y jugar videojuegos.
 ☕ Amante del cafe.
 
 🛠 Tech Stack
-💻   JavaScript | C++ | NodeJs | ReactJs
-🌐   HTML5 | CSS3 | Bootstrap | Redux | Express
-🛢   PostgreSQL | Sequelize (ORM)
-🔧   Visual Studio code | Postman | Git | Slack | Discord
+💻   JavaScript | NodeJs | ReactJs | NextJs
+🌐   HTML5 | CSS3 | Tailwind | Redux | Express
+🛢   PostgreSQL | Sequelize
+🔧   Visual Studio code | Postman | Git | Slack | Teams | Discord
 
 Contacto:
 mjpereson@gmail.com
